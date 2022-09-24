@@ -10,3 +10,9 @@ Build Setting:<br>
   
 **Stage Select** -> 01-0X
   * Button:*[Stage Name]*
+  
+  Stages:<br>
+  01 - Fall Guys
+  02 - Mario Kart
+  03 - Super Smash Bros
+  04 - ?
